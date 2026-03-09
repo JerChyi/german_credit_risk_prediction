@@ -1,7 +1,7 @@
 # german_credit_risk_prediction
 
-## Project Title: Credit Risk Prediction Using Machine Learning
-Project Overview
+# Project Title: Credit Risk Prediction Using Machine Learning
+## Project Overview
 
 This project aims to develop a machine learning solution to predict whether a loan applicant is likely to be a good or bad credit risk using the German Credit dataset. The purpose is to support financial institutions in making faster, more accurate, and more consistent lending decisions. By combining data analysis with predictive modeling, the project helps reduce loan default risk while improving the quality of customer approval decisions.
 
